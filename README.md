@@ -1,5 +1,5 @@
 
-# Documentation for MetroScope forecast tool, used by Oregon Metro
+# Documentation for MetroScope forecast tool
  
 ## Overview 
 MetroScope is an integrated set of econometric, land use, and transport models, currently used at Metro for producing regional forecasts and evaluating a wide range of policy scenarios.  
