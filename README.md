@@ -14,5 +14,5 @@ For both the core residential and non-residential modules, market forces determi
 * Input/Output Tables
 * Functions
 
-## R Code
+Model code can be found in the **R_code** directory
 
